@@ -1,0 +1,7 @@
+# Node dependencies
+node_modules/
+
+# Electron build outputs
+dist/
+out/
+*.log
